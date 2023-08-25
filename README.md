@@ -1,7 +1,7 @@
 # Medical-Management-System
 
 BUILD DESCRIPTION
-
+ username : admin id: vishal
 
 * A Database is needed for the working of the project 
 * Details for the creation of MySql Database:
