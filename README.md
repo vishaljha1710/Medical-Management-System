@@ -1,7 +1,13 @@
 # Medical-Management-System
 
+![image](https://github.com/vishaljha1710/Medical-Management-System/assets/77543816/298dd8ff-0a44-4166-acd8-5b29a51638e4)
+
+
 BUILD DESCRIPTION
  username : admin id: vishal
+
+![image](https://github.com/vishaljha1710/Medical-Management-System/assets/77543816/15d0bc2c-6727-4000-a0d9-eb16738e9313)
+
 
 * Download all files
 * A Database is needed for the working of the project 
